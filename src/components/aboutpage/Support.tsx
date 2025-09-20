@@ -1,4 +1,3 @@
-import React from "react";
 import SettingsSection from "../settingspage/SettingsSection";
 import SectionCard from "../settingspage/SectionCard";
 import { Copyright, File, Mail, Scale, type LucideProps } from "lucide-react";
